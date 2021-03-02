@@ -2,7 +2,7 @@
 
 **InstagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **6** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -58,10 +58,9 @@ Sometimes, the username of a user would appear over a post that they did not mak
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-    
-**PART 1 BELOW:**
+ 
 
-# Project 3 - *InstagramClone*
+# Project 3 - *InstagramClone* (**PART 1**)
 
 **InstagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
